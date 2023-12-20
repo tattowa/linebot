@@ -1,7 +1,7 @@
 # LINEBOT　作成
 
-TODOリスト作成　
-AWSを使用したい
+TODOリスト作成　\n
+**AWSを使用したい**
 
 
 # DEMO
@@ -41,19 +41,3 @@ python demo.py
 
 注意点などがあれば書く
 
-# Author
-
-作成情報を列挙する
-
-* 作成者
-* 所属
-* E-mail
-
-# License
-ライセンスを明示する
-
-"hoge" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
-
-社内向けなら社外秘であることを明示してる
-
-"hoge" is Confidential.
